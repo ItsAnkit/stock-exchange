@@ -5,11 +5,14 @@ This is a simple stock trading application built in Ruby. It allows multiple use
 
 1. Navigate to the project directory:
     ```bash
-        cd stock_trading
+        cd stock-exchange
     ```
 
 2. Run Exchange file:
     ```bash
-        ruby exchange.rb
+        ruby src/exchange.rb
     ```
 
+# Expected output
+
+![alt text](<data/output.png>)
